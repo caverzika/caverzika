@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caverzika
+- 👋 Hi, I’m @caverzika <br>
 • Cursando Análise e Desenvolvimento de Sistemas (FIAP). <br>
 • 22 anos. <br>
 • São Paulo <br>
